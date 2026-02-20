@@ -152,6 +152,10 @@ Office Scripts extract structured arrays from dashboard sheets, ensuring consist
 
 ---
 
+## Screenshots
+
+![SoD Branch](assets/Daily_Processed_Cartons_1.png)
+
 ## Author
 
 **Abraham Efraim**  

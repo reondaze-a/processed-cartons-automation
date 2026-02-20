@@ -152,9 +152,11 @@ Office Scripts extract structured arrays from dashboard sheets, ensuring consist
 
 ---
 
-## Screenshots
+## Flow Screenshots
 
-![SoD Branch](assets/Daily_Processed_Cartons_1.png)
+![Triggers and Initializations](assets/Daily_Processed_Cartons_1.png)
+
+![Branches](assets/Daily_Processed_Cartons_2.png)
 
 ## Author
 
